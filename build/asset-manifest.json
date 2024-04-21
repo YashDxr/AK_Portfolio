@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.009cd182.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Juza.jpeg": "/static/media/Juza.8d77951164dc08abbc80.jpeg",
+    "static/media/Akanksha_Singh_Resume.pdf": "/static/media/Akanksha_Singh_Resume.cfb6da4550fd2258ad19.pdf",
+    "static/media/Comakeit.jpeg": "/static/media/Comakeit.62b6fe8a2997d3257c81.jpeg",
+    "static/media/Home1.jpeg": "/static/media/Home1.e839f25ed230d690dbbc.jpeg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Tcs.jpeg": "/static/media/Tcs.1940096b8d714eceddca.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Home2.jpg": "/static/media/Home2.c79ab7dd0b8a0fdb17fd.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.009cd182.js.map": "/static/js/main.009cd182.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.009cd182.js"
+  ]
+}
